@@ -155,6 +155,6 @@ We’re community-driven and always looking for builders, racers, developers, an
   <img src="https://img.shields.io/badge/Discord-Coming%20Soon-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord placeholder badge" />
 </p>
 
-<p align="center"><sub>Replace social URLs with official TopeRC channels.</sub></p>
+<p align="center"><sub>Replace placeholder badges with linked official TopeRC social channels.</sub></p>
 
 <p align="center"><em>Built by engineers. Tuned by racers. Driven by community. 🏁</em></p>
