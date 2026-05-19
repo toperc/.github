@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/toperc"><img src="https://img.shields.io/badge/Open%20Source-Yes-00C853?style=for-the-badge" alt="Open Source" /></a>
   <a href="https://github.com/toperc"><img src="https://img.shields.io/badge/Focus-RC%20%2B%20Embedded%20%2B%20AI-1E88E5?style=for-the-badge" alt="Focus" /></a>
-  <a href="https://github.com/toperc"><img src="https://img.shields.io/badge/Community-Builder%20Driven-7B1FA2?style=for-the-badge" alt="Community Driven" /></a>
+  <a href="https://github.com/toperc"><img src="https://img.shields.io/badge/Community-Community%20Driven-7B1FA2?style=for-the-badge" alt="Community Driven" /></a>
   <a href="https://github.com/toperc"><img src="https://img.shields.io/badge/Status-Active%20Development-FF6F00?style=for-the-badge" alt="Active Development" /></a>
 </p>
 
