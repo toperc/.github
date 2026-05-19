@@ -148,11 +148,11 @@ We’re community-driven and always looking for builders, racers, developers, an
 ## 📣 Contact & Socials
 
 <p align="center">
-  <a href="#website-coming-soon"><img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="#youtube-coming-soon"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="#instagram-coming-soon"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="#tiktok-coming-soon"><img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="#discord-coming-soon"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website placeholder badge" />
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube placeholder badge" />
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram placeholder badge" />
+  <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok placeholder badge" />
+  <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord placeholder badge" />
 </p>
 
 <p align="center"><sub>Replace social URLs with official TopeRC channels.</sub></p>
