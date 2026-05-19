@@ -57,17 +57,17 @@ We combine **software + hardware integration** to help builders move faster, tun
 
 ## 🌟 Featured Repositories
 
-> _Planned and active repository lineup (update links as repositories are published)._  
+> _Planned repository lineup (update links and live status as repositories are published)._  
 
 | Repository | Category | Description | Status |
 |---|---|---|---|
-| `toperc/telemetry-overlay-studio` | Telemetry overlays | Real-time telemetry dashboard + export overlays for videos | 🧪 In Progress |
-| `toperc/rc-firmware-core` | RC firmware | Modular firmware stack for custom RC electronics | 🚀 Active |
-| `toperc/fpv-link-lab` | FPV systems | Tooling for FPV link diagnostics and performance tuning | 🧪 In Progress |
-| `toperc/rc-ai-toolkit` | AI tooling | AI assistants for setup, tuning insights, and content workflows | 🚀 Active |
-| `toperc/rc-cad-library` | CAD / 3D printing | Parametric models and printable RC components | 🚀 Active |
-| `toperc/embedded-bus-kit` | Embedded systems | Reusable embedded communication and sensor interface modules | 🧪 In Progress |
-| `toperc/video-ops-for-rc` | Video production tools | Creator-focused automation for RC media production | 🧪 In Progress |
+| `toperc/telemetry-overlay-studio` | Telemetry overlays | Real-time telemetry dashboard + export overlays for videos | 🗺️ Planned |
+| `toperc/rc-firmware-core` | RC firmware | Modular firmware stack for custom RC electronics | 🗺️ Planned |
+| `toperc/fpv-link-lab` | FPV systems | Tooling for FPV link diagnostics and performance tuning | 🗺️ Planned |
+| `toperc/rc-ai-toolkit` | AI tooling | AI assistants for setup, tuning insights, and content workflows | 🗺️ Planned |
+| `toperc/rc-cad-library` | CAD / 3D printing | Parametric models and printable RC components | 🗺️ Planned |
+| `toperc/embedded-bus-kit` | Embedded systems | Reusable embedded communication and sensor interface modules | 🗺️ Planned |
+| `toperc/video-ops-for-rc` | Video production tools | Creator-focused automation for RC media production | 🗺️ Planned |
 
 ---
 
@@ -148,11 +148,11 @@ We’re community-driven and always looking for builders, racers, developers, an
 ## 📣 Contact & Socials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website placeholder badge" />
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube placeholder badge" />
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram placeholder badge" />
-  <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok placeholder badge" />
-  <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord placeholder badge" />
+  <img src="https://img.shields.io/badge/Website-Coming%20Soon-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website placeholder badge" />
+  <img src="https://img.shields.io/badge/YouTube-Coming%20Soon-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube placeholder badge" />
+  <img src="https://img.shields.io/badge/Instagram-Coming%20Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram placeholder badge" />
+  <img src="https://img.shields.io/badge/TikTok-Coming%20Soon-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok placeholder badge" />
+  <img src="https://img.shields.io/badge/Discord-Coming%20Soon-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord placeholder badge" />
 </p>
 
 <p align="center"><sub>Replace social URLs with official TopeRC channels.</sub></p>
