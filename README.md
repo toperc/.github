@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://placehold.co/1600x420/0B0F19/00D4FF?text=TopeRC+Animated+Banner+(Replace+with+GIF)" alt="TopeRC Animated Banner" width="100%" />
+  <img src="https://placehold.co/1600x420/0B0F19/00D4FF?text=TopeRC" alt="TopeRC Animated Banner" width="100%" />
 </p>
+<p align="center"><sub>Animated banner placeholder — replace with official TopeRC GIF/banner.</sub></p>
 
 <h1 align="center">🏁 TopeRC</h1>
 <p align="center"><strong>Engineering the next generation of high-performance RC systems.</strong></p>
@@ -56,15 +57,17 @@ We combine **software + hardware integration** to help builders move faster, tun
 
 ## 🌟 Featured Repositories
 
+> _Planned and active repository lineup (update links as repositories are published)._  
+
 | Repository | Category | Description | Status |
 |---|---|---|---|
-| [`toperc/telemetry-overlay-studio`](https://github.com/toperc/telemetry-overlay-studio) | Telemetry overlays | Real-time telemetry dashboard + export overlays for videos | 🧪 In Progress |
-| [`toperc/rc-firmware-core`](https://github.com/toperc/rc-firmware-core) | RC firmware | Modular firmware stack for custom RC electronics | 🚀 Active |
-| [`toperc/fpv-link-lab`](https://github.com/toperc/fpv-link-lab) | FPV systems | Tooling for FPV link diagnostics and performance tuning | 🧪 In Progress |
-| [`toperc/rc-ai-toolkit`](https://github.com/toperc/rc-ai-toolkit) | AI tooling | AI assistants for setup, tuning insights, and content workflows | 🚀 Active |
-| [`toperc/rc-cad-library`](https://github.com/toperc/rc-cad-library) | CAD / 3D printing | Parametric models and printable RC components | 🚀 Active |
-| [`toperc/embedded-bus-kit`](https://github.com/toperc/embedded-bus-kit) | Embedded systems | Reusable embedded communication and sensor interface modules | 🧪 In Progress |
-| [`toperc/video-ops-for-rc`](https://github.com/toperc/video-ops-for-rc) | Video production tools | Creator-focused automation for RC media production | 🧪 In Progress |
+| `toperc/telemetry-overlay-studio` | Telemetry overlays | Real-time telemetry dashboard + export overlays for videos | 🧪 In Progress |
+| `toperc/rc-firmware-core` | RC firmware | Modular firmware stack for custom RC electronics | 🚀 Active |
+| `toperc/fpv-link-lab` | FPV systems | Tooling for FPV link diagnostics and performance tuning | 🧪 In Progress |
+| `toperc/rc-ai-toolkit` | AI tooling | AI assistants for setup, tuning insights, and content workflows | 🚀 Active |
+| `toperc/rc-cad-library` | CAD / 3D printing | Parametric models and printable RC components | 🚀 Active |
+| `toperc/embedded-bus-kit` | Embedded systems | Reusable embedded communication and sensor interface modules | 🧪 In Progress |
+| `toperc/video-ops-for-rc` | Video production tools | Creator-focused automation for RC media production | 🧪 In Progress |
 
 ---
 
@@ -145,11 +148,11 @@ We’re community-driven and always looking for builders, racers, developers, an
 ## 📣 Contact & Socials
 
 <p align="center">
-  <a href="https://github.com/toperc"><img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.tiktok.com/"><img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="#website-coming-soon"><img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="#youtube-coming-soon"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="#instagram-coming-soon"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="#tiktok-coming-soon"><img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="#discord-coming-soon"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <p align="center"><sub>Replace social URLs with official TopeRC channels.</sub></p>
