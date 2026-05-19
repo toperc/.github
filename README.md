@@ -124,10 +124,8 @@ We’re community-driven and always looking for builders, racers, developers, an
 4. Use issues/discussions for architecture proposals
 5. Be respectful, constructive, and collaborative
 
-<p>
-  <a href="https://github.com/toperc/.github/blob/main/CONTRIBUTING.md">📘 Contribution Guidelines (placeholder)</a><br />
-  <a href="https://github.com/toperc/.github/blob/main/CODE_OF_CONDUCT.md">🧭 Code of Conduct (placeholder)</a>
-</p>
+> 📘 Contribution Guidelines: _Placeholder — add `CONTRIBUTING.md` when ready_  
+> 🧭 Code of Conduct: _Placeholder — add `CODE_OF_CONDUCT.md` when ready_
 
 ---
 
@@ -147,11 +145,13 @@ We’re community-driven and always looking for builders, racers, developers, an
 ## 📣 Contact & Socials
 
 <p align="center">
-  <a href="https://your-website.example"><img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://youtube.com/@your-channel"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://instagram.com/your-profile"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://tiktok.com/@your-profile"><img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/toperc"><img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/"><img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
+
+<p align="center"><sub>Replace social URLs with official TopeRC channels.</sub></p>
 
 <p align="center"><em>Built by engineers. Tuned by racers. Driven by community. 🏁</em></p>
